@@ -1,0 +1,31 @@
+body{
+  background: #333;
+  color: #fff;
+  text-align: center;
+  font-size: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+  padding: 0;
+}
+.newBorder{
+  border: 2px dashed #00f;
+}
+.abra{
+  background: #fff;
+  color: #333;
+  padding: 10px;
+  border-radius: 50px;
+}
+.theOne{
+  font-weight: 800;
+  color: #0f0;
+}
+.hd{
+  color: #ff0;
+}
+.oneForAll{
+  font-size: 20px;
+  background: #fff;
+  padding: 10px;
+}
